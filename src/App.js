@@ -52,7 +52,7 @@ class App extends Component {
       editItem: true
     });
   };
-  render() {
+  render() { 
     return (
       <div className="container">
         <div className="row">
